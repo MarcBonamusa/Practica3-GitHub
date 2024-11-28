@@ -63,6 +63,8 @@
 
 ## Parte 3: Gestión de Archivos y Cambios
 ###1. Ediciones rápidas:
+
 ###2. Borrado y recuperación:
+
 ###3. Combina ramas:
 
