@@ -64,6 +64,16 @@
 ## Parte 3: Gestión de Archivos y Cambios
 ###1. Ediciones rápidas:
 
+- He creado el archivo src/app.py, despues lo he añadido y he hecho un commit y verificamos su estado. Con git lg vemos el historial de commits, 
+
+![p3ex1](./img/p3ex1_1.png)
+
+![p3ex1.2](./img/p3ex1_2.png)
+
+![p3ex1.2.2](./img/p3ex1_2_2.png)
+
+![p3ex1.3](./img/p3ex1_3.png)
+
 ###2. Borrado y recuperación:
 
 ###3. Combina ramas:
