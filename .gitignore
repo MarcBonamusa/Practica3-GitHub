@@ -1,0 +1,6 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar carpetas temporales de configuración
+config/
+temp/
