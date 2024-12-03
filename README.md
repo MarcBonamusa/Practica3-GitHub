@@ -33,6 +33,10 @@
 
 - **Explica las diferencias entre las 2 preguntas anteriores:**
 
+1. Al crear un repositorio en GitHub con un archivo README.md, GitHub automáticamente añade este archivo al repositorio y genera un commit inicial. Esto significa que el repositorio ya no está vacío y tiene un historial de commits desde el principio.
+
+2. Al crear el repositorio sin un archivo README.md, el repositorio estará completamente vacío. No habrá archivos iniciales ni commits, y por lo tanto, tampoco un historial de cambios.
+   
 - **Indica que comandos te da GitHub al crear un repositorio:**
 
 1. echo "# Practica3-GitHub" >> README.md
@@ -62,7 +66,7 @@
 ![p2ex4](./img/p2ex4.png)
 
 ## Parte 3: Gestión de Archivos y Cambios
-###1. Ediciones rápidas:
+### 1. Ediciones rápidas:
 
 - He creado el archivo src/app.py, despues lo he añadido y he hecho un commit y verificamos su estado. Con git lg vemos el historial de commits, 
 
@@ -74,7 +78,28 @@
 
 ![p3ex1.3](./img/p3ex1_3.png)
 
-###2. Borrado y recuperación:
+### 2. Borrado y recuperación:
 
-###3. Combina ramas:
+- Borramos el archivo app.py y depues lo volvemos a recuperar
 
+![p3ex2](./img/p3ex2.png)
+
+### 3. Combina ramas:
+
+- Fusionamos las dos ramas (master i feature/documetacion) i despues con el alias lg vemos el log de los commits
+
+![p3ex3](./img/p3ex3.png)
+
+## Parte 4: Entrega del Proyecto
+
+### 1. Últimos pasos:
+
+- Hacemos status para comprobar que esta todo añadido y despues push para subirlo a github
+
+![p4ex1](./img/p4ex1.png)
+
+- 
+
+![p4ex2](./img/p4ex2.png)
+
+### 2. Explora el proyecto desde el terminal:
